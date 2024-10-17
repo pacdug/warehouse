@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>English-Vietnamese Dictionary</title>
+</head>
+<body>
+<h1>English-Vietnamese Dictionary</h1>
+<script>
+    let englishWords = ["apple", "banana", "cherry", "date", "grape", "orange", "lemon", "mango", "pineapple", "watermelon"];
+    let vietnameseWords = ["quả táo", "quả chuối", "quả anh đào", "quả chà là", "quả nho", "quả cam", "quả chanh", "quả xoài", "quả dứa", "quả dưa hấu"];
+    let word = prompt('nhap tu can dich')
+    let translatedWord = false ;
+
+    for (let i = 0; i < englishWords.length; i++) {
+        if (englishWords[i] === word) {
+            document.write(`từ ${word} co nghia la ${vietnameseWords[i]}`);
+            translatedWord = true;
+            break;
+        }
+
+    }
+    if (!translatedWord) {
+        document.write('khong tim thay');
+    }
+</script>
+</body>
+</html>
