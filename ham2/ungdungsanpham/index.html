@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý sản phẩm</title>
+</head>
+<body>
+    <h1>Quản lý sản phẩm</h1>
+    <form id="productForm" onsubmit="addProduct(event)">
+        <input type="text" id="productName" placeholder="Tên sản phẩm" required>
+        <button type="submit">Thêm sản phẩm</button>
+    </form>
+    <h2>Danh sách sản phẩm</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                <th>STT</th>
+                <th>Tên sản phẩm</th>
+                <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody id="productList"></tbody>
+        </table>
+    <script src="react.js"></script>
+</body>
