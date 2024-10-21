@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiểm tra ký tự trong mảng</title>
+</head>
+<body>
+    <h1>Kiểm tra ký tự trong mảng</h1>
+    <p>Nhập mảng ký tự và ký tự cần kiểm tra.</p>
+    <form id="charForm">
+        <label for="charArray">Nhập mảng ký tự (cách nhau bằng dấu phẩy):</label>
+        <input type="text" id="charArray" name="charArray" required>
+        <br><br>
+        <label for="charToCheck">Ký tự cần kiểm tra:</label>
+        <input type="text" id="charToCheck" name="charToCheck" required>
+        <br><br>
+        <button type="button" onclick="checkCharacter()">Kiểm tra</button>
+    </form>
+    <p id="result"></p>
+    <script src="react.js"></script>
+</body>
+</html>
