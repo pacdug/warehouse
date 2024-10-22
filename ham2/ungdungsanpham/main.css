@@ -70,3 +70,7 @@ tr:hover {
 #productList button:last-child {
     background-color: #dc3545;
 }
+
+p{
+    margin-right: 10px;
+}
