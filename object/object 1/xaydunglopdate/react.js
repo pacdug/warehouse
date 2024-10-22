@@ -1,31 +1,36 @@
-let Mydate = function(day, month, year) {
+let MyDate = function(day, month, year) {
+
     this.day = day;
+
     this.month = month;
+
     this.year = year;
-    this.getday = function() {
+
+    this.getDay = function() {
         return this.day;
     }
-    this.getmonth = function() {
+    this.getMonth = function() {
         return this.month;
     }
     this.getYear = function() {
         return this.year;
     }
-    this.setday = function() {
-       this.day = day;
+    this.setDay = function(day) {
+        this.day  = day;
     }
-    this.setmonth = function() {
-        this.month = month;
+    this.setMonth = function(month) {
+        this.month  = month;
     }
-    this.setyear = function() {
-        this.year = year;
+    this.setYear = function(year) {
+        this.year  = year;
     }
-}
+
+};
 let date = new MyDate(2, 2, 2007);
 
-date.setday(10);
-date.setmonth(10);
-date.setyear(2019);
+date.setDay(10);
+date.setMonth(10);
+date.setYear(2019);
 
 let day = date.getDay();
 
