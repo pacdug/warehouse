@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hình Chữ Nhật</title>
+</head>
+<body>
+    <h1>Hình Chữ Nhật</h1>
+    <canvas id="rectangleCanvas" width="200" height="200" style="border:1px solid #000000;"></canvas>
+    <button onclick="drawRectangle()">Vẽ Hình Chữ Nhật</button>
+    <script src="rectangle.js"></script>
+    <script>
+        function drawRectangle() {
+            const rect = new Rectangle(100, 50);
+            rect.draw('rectangleCanvas');
+        }
+    </script>
+</body>
+</html>
