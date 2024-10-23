@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+}
+
+#scene {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    border: 2px solid #333;
+    margin-bottom: 20px;
+    background-color: #cce7ff;
+}
+
+.character {
+    position: absolute;
+    bottom: 10px;
+    width: 60px;
+    height: 60px;
+    background-color: #ffcc00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 16px;
+    color: white;
+}
+
+#adam {
+    left: 50px;
+}
+
+#eva {
+    right: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
