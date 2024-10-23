@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhiệt độ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Chuyển đổi Nhiệt độ</h1>
+<form id="temperatureForm" onsubmit="convertTemperature(event)">
+    <label for="celsius">Nhiệt độ (°C):</label>
+    <input type="number" id="celsius" required>
+    <button type="submit">Chuyển đổi</button>
+</form>
+<h2>Kết quả:</h2>
+<p id="fahrenheitResult"></p>
+<p id="kelvinResult"></p>
+<script src="temperature.js"></script>
+<script src="conversion.js"></script>
+</body>
+</html>
