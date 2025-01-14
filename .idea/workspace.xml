@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="codegym:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc972ccf-891f-401a-934b-ce1b9e28d096" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/doyouloveme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doyouloveme/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codegym.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham1/chuyendoinhietdo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham1/chuyendoinhietdo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham1/chuyendoinhietdo/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham1/chuyendoinhietdo/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham1/taovagoiham/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham1/taovagoiham/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham1/taovagoiham/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham1/taovagoiham/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham1/timgiatrinhonhat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham1/timgiatrinhonhat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham1/timgiatrinhonhat/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham1/timgiatrinhonhat/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/chuyendoifeetsangmeters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/chuyendoifeetsangmeters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/chuyendoifeetsangmeters/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/chuyendoifeetsangmeters/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/kiemtrasonguyento/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/kiemtrasonguyento/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/kiemtrasonguyento/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/kiemtrasonguyento/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai1/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai1/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai2/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai2/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai3/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai3/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai4/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai4/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap01/bai5/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap01/bai5/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai1/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai1/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai2/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai2/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai3/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai3/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai4/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai4/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai5/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai5/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai6/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai6/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/luyentap02/bai9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/luyentap02/bai9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/ungdungsanpham/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/ungdungsanpham/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ham2/ungdungsanpham/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/ham2/ungdungsanpham/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/bancocaro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/bancocaro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/daonguoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/daonguoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/daonguoc/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/daonguoc/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/max/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/max/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/max/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/max/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/taovathaotac/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/taovathaotac/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/taovathaotac/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/taovathaotac/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/timvitri/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/timvitri/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang1/timvitri/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang1/timvitri/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/FakingTextareaonTyping/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/FakingTextareaonTyping/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/FakingTextareaonTyping/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/FakingTextareaonTyping/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai1/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai1/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai2/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai2/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai3/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai3/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai4/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai4/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai5/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai5/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/luyentap1/bai6/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/luyentap1/bai6/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/sudunghamcosan/bai1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/sudunghamcosan/bai1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/sudunghamcosan/bai2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/sudunghamcosan/bai2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/sudunghamcosan/bai2/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/sudunghamcosan/bai2/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/sudunghamcosan/bai3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/sudunghamcosan/bai3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/sudunghamcosan/bai3/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/sudunghamcosan/bai3/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/tictactoe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/tictactoe/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/tictactoe/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/tictactoe/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mang2/tudien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mang2/tudien/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/funnyCircles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/funnyCircles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/funnyCircles/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/funnyCircles/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/hinhchunhat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/hinhchunhat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/lophinhttron/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/lophinhttron/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/lophinhttron/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/lophinhttron/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/lopmotadienthoai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/lopmotadienthoai/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/lopmotadienthoai/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/lopmotadienthoai/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/motahcn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/motahcn/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/thuchanh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/thuchanh/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/thuchanh/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/thuchanh/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/xaydunglopdate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/xaydunglopdate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 1/xaydunglopdate/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 1/xaydunglopdate/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/adamvseva/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/adamvseva/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/caro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/caro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/congtacvabongden/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/congtacvabongden/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/dichuyendoituong/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/dichuyendoituong/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/dichuyendoituong/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/dichuyendoituong/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/meovachuot/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/meovachuot/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/meovachuot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/meovachuot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/meovachuot/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/meovachuot/react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/mophongdenpin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/mophongdenpin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object/object 2/mophongdenpin/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/object/object 2/mophongdenpin/react.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pacdug"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pacdug/warehouse.git",
+    "accountId": "7cc7377a-55d5-4354-8aaa-e3c46b20e75f"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2rbmXsmuXr8w7qUXZK7wK5re0MH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Tomcat Server.Tomcat 9.0.98.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.98" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.98" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="codegym:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="c369cd61-f9ff-4c42-9960-aa27ca85825b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54011" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="codegym:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc972ccf-891f-401a-934b-ce1b9e28d096" name="Changes" comment="" />
+      <created>1736836192963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736836192963</updated>
+      <workItem from="1736836194218" duration="1495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

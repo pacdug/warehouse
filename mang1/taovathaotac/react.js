@@ -1,7 +1,8 @@
-let x='';
-let array= Array();
+let x = '';
+let array = Array();
+
 function add_Element_to_array() {
-    array[x] =document.getElementById('arrvl').value ;
+    array[x] = document.getElementById('arrvl').value;
     alert("Element: " + array[x] + " Added at index " + x);
     x++;
     document.getElementById('arrvl').value = '';

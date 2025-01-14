@@ -6,9 +6,8 @@ for (let i = 0; i < numbers.length; i++) {
         index = i;
     }
 }
-if(index>-1){
+if (index > -1) {
     alert("Value " + value + "found at " + index);
-}
-else{
+} else {
     alert("Value " + value + " not found");
 }

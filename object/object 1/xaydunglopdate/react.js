@@ -1,4 +1,4 @@
-let MyDate = function(day, month, year) {
+let MyDate = function (day, month, year) {
 
     this.day = day;
 
@@ -6,23 +6,23 @@ let MyDate = function(day, month, year) {
 
     this.year = year;
 
-    this.getDay = function() {
+    this.getDay = function () {
         return this.day;
     }
-    this.getMonth = function() {
+    this.getMonth = function () {
         return this.month;
     }
-    this.getYear = function() {
+    this.getYear = function () {
         return this.year;
     }
-    this.setDay = function(day) {
-        this.day  = day;
+    this.setDay = function (day) {
+        this.day = day;
     }
-    this.setMonth = function(month) {
-        this.month  = month;
+    this.setMonth = function (month) {
+        this.month = month;
     }
-    this.setYear = function(year) {
-        this.year  = year;
+    this.setYear = function (year) {
+        this.year = year;
     }
 
 };

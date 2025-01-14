@@ -28,4 +28,5 @@ function checkElement() {
         result.textContent = `${elementV} is not in the array`;
     }
 }
+
 createArrayInputs();

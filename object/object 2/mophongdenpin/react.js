@@ -26,7 +26,7 @@ let FlashLamp = function () {
     };
 
     this.light = function () {
-        if(this.status){
+        if (this.status) {
             alert("Lighting");
         } else {
             alert("Not lighting");

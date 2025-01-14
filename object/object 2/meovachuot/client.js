@@ -1,4 +1,4 @@
-function runSimulation(event){
+function runSimulation(event) {
     event.preventDefault();
 
     const ratName = document.getElementById('nr').value;

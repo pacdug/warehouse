@@ -1,9 +1,9 @@
-let Circle = function(radius) {
+let Circle = function (radius) {
     this.r = radius;
-    this.getRadius = function() {
+    this.getRadius = function () {
         return radius;
     }
-    this.getArea = function() {
+    this.getArea = function () {
         return Math.PI * radius * radius;
     }
 };

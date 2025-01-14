@@ -1,5 +1,5 @@
-let Star1 = ['Polaris', 'Aldebaran', 'Deneb', 'Vega', 'Altair', 'Dubhe' , 'Regulus'];
-let Star2 = ['Ursa Minor', 'Tarurus', 'Cygnus', 'Lyra', 'Aquila', 'Ursa' , 'Major' , 'Leo']
+let Star1 = ['Polaris', 'Aldebaran', 'Deneb', 'Vega', 'Altair', 'Dubhe', 'Regulus'];
+let Star2 = ['Ursa Minor', 'Tarurus', 'Cygnus', 'Lyra', 'Aquila', 'Ursa', 'Major', 'Leo']
 
 function Convert(star) {
     let index_star1 = 0;
@@ -7,7 +7,7 @@ function Convert(star) {
     for (let i = 0; i < star1.length; i++) {
         if (star == star1[i]) {
             index_star1 = i;
-            for(let j = 0; j < star2.length; j++) {
+            for (let j = 0; j < star2.length; j++) {
                 if (index_star1 == j) {
                     result = star2[j];
                     return result;
@@ -22,6 +22,7 @@ function Convert(star) {
         }
     }
 }
+
 let star = prompt("Nhập vào ngôi sao: ")
 document.write(check_star(star));
 

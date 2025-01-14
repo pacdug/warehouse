@@ -3,7 +3,7 @@ let min = numbers[0];
 for (let i = 1; i < numbers.length; i++) {
     if (numbers[i] < min) {
         min = numbers[i];
-        index = i ;
+        index = i;
     }
 }
 document.write("min: " + min + " at position " + index);

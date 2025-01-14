@@ -1,30 +1,30 @@
 class Rat {
-    constructor(name,weight,speed) {
-        this.name = name ;
-        this.weight = weight ;
-        this.speed = speed ;
+    constructor(name, weight, speed) {
+        this.name = name;
+        this.weight = weight;
+        this.speed = speed;
         this.status = true;
     }
 
-    chitChit(){
-        return  ('chit chit');
+    chitChit() {
+        return ('chit chit');
     }
 }
 
 class Cat {
-    constructor(name,weight,maxspeed) {
-        this.name = name ;
-        this.weight = weight ;
-        this.maxspeed = maxspeed ;
+    constructor(name, weight, maxspeed) {
+        this.name = name;
+        this.weight = weight;
+        this.maxspeed = maxspeed;
     }
 
-    meoMeo(){
+    meoMeo() {
         return 'meo meo';
     }
 
-    catchRat(rat){
-        if (this.maxspeed > rat.speed){
-            return (`${this.name} bắt được ${rat.name}`) ;
+    catchRat(rat) {
+        if (this.maxspeed > rat.speed) {
+            return (`${this.name} bắt được ${rat.name}`);
         } else {
             return (`${this.name} không bắt được ${rat.name}`);
         }

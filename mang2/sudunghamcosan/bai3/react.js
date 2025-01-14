@@ -1,11 +1,11 @@
-function swapCase(str){
+function swapCase(str) {
     let result = '';
-    for(let i=0;i<str.length;i++){
+    for (let i = 0; i < str.length; i++) {
         let char = str[i];
-        if(char === char.toLowerCase()){
-            result +=char.toUpperCase();
-        }else {
-            result +=char.toLowerCase();
+        if (char === char.toLowerCase()) {
+            result += char.toUpperCase();
+        } else {
+            result += char.toLowerCase();
         }
     }
     return result;

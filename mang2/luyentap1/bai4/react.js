@@ -1,4 +1,5 @@
-let arr=[];
+let arr = [];
+
 function createArrayInputs() {
     const arraySize = document.getElementById('arraySize').value;
     const arrayInputsDiv = document.getElementById('arrayInputs');
